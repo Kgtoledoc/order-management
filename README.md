@@ -48,5 +48,20 @@ El sistema está diseñado utilizando una arquitectura de microservicios, con lo
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/tu_usuario/sistema-gestion-pedidos.git
-cd sistema-gestion-pedidos
+git clone https://github.com/tu_usuario/order-management-system.git
+cd order-management-system
+
+## Contribuciones
+Las contribuciones son bienvenidas.
+
+## Licencia
+Este proyecto está bajo la Licencia MIT.
+
+## Contacto
+Para más información, puedes contactar al autor en:
+- **Correo Electrónico:** kgtoledoc19@gmail.com
+- **GitHub:** [kgtoledoc](https://github.com/kgtoledoc)
+
+---
+
+¡Gracias por tu interés en el **Sistema de Gestión de Pedidos**!

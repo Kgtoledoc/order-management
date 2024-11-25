@@ -1,17 +1,20 @@
 {
   "name": "order-service",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Microservicio de gestión de pedidos para el Sistema de Gestión de Pedidos",
+  "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/app.js",
+    "test": "echo \"No tests specified\" && exit 0"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "body-parser": "^1.20.3",
-    "express": "^4.21.1",
-    "kafka-node": "^5.0.0"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT"
 }
