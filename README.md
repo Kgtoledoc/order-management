@@ -47,7 +47,6 @@ El sistema está diseñado utilizando una arquitectura de microservicios, con lo
 4. [Docker Compose](https://docs.docker.com/compose/)
 
 ### Clonar el Repositorio
-```bash
 git clone https://github.com/tu_usuario/order-management-system.git
 cd order-management-system
 
